@@ -1,0 +1,17 @@
+C:\Users\Dell\source\repos\CursoMVC_1\CapaCliente\bin\Debug\CapaCliente.exe.config
+C:\Users\Dell\source\repos\CursoMVC_1\CapaCliente\bin\Debug\CapaCliente.exe
+C:\Users\Dell\source\repos\CursoMVC_1\CapaCliente\bin\Debug\CapaCliente.pdb
+C:\Users\Dell\source\repos\CursoMVC_1\CapaCliente\bin\Debug\CapaNegocio.dll
+C:\Users\Dell\source\repos\CursoMVC_1\CapaCliente\bin\Debug\CapaDatos.dll
+C:\Users\Dell\source\repos\CursoMVC_1\CapaCliente\bin\Debug\CapaEntidad.dll
+C:\Users\Dell\source\repos\CursoMVC_1\CapaCliente\bin\Debug\CapaNegocio.pdb
+C:\Users\Dell\source\repos\CursoMVC_1\CapaCliente\bin\Debug\CapaDatos.pdb
+C:\Users\Dell\source\repos\CursoMVC_1\CapaCliente\bin\Debug\CapaEntidad.pdb
+C:\Users\Dell\source\repos\CursoMVC_1\CapaCliente\obj\Debug\CapaCliente.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\CursoMVC_1\CapaCliente\obj\Debug\CapaCliente.Form1.resources
+C:\Users\Dell\source\repos\CursoMVC_1\CapaCliente\obj\Debug\CapaCliente.Properties.Resources.resources
+C:\Users\Dell\source\repos\CursoMVC_1\CapaCliente\obj\Debug\CapaCliente.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\CursoMVC_1\CapaCliente\obj\Debug\CapaCliente.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\CursoMVC_1\CapaCliente\obj\Debug\CapaCliente.csproj.CopyComplete
+C:\Users\Dell\source\repos\CursoMVC_1\CapaCliente\obj\Debug\CapaCliente.exe
+C:\Users\Dell\source\repos\CursoMVC_1\CapaCliente\obj\Debug\CapaCliente.pdb

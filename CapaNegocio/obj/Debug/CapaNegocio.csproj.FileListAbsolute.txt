@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\CursoMVC_1\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Dell\source\repos\CursoMVC_1\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Dell\source\repos\CursoMVC_1\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Dell\source\repos\CursoMVC_1\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Dell\source\repos\CursoMVC_1\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Dell\source\repos\CursoMVC_1\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Dell\source\repos\CursoMVC_1\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\CursoMVC_1\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\CursoMVC_1\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Dell\source\repos\CursoMVC_1\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Dell\source\repos\CursoMVC_1\CapaNegocio\obj\Debug\CapaNegocio.pdb
